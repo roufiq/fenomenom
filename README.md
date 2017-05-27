@@ -28,7 +28,6 @@ feature
 * Simplify RBAC
 * Editable Gridview menggunakan Kartik Editable
 
-Feel free to use
 screenshoot
 -----------
 <img src="https://cloud.githubusercontent.com/assets/1335774/26523371/75650dd8-4340-11e7-939b-8cb37ae57744.png" width="15%"></img>
