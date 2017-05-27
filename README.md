@@ -29,6 +29,8 @@ feature
 * Editable Gridview menggunakan Kartik Editable
 
 Feel free to use
+screenshoot
+-----------
 <img src="https://cloud.githubusercontent.com/assets/1335774/26523371/75650dd8-4340-11e7-939b-8cb37ae57744.png" width="15%"></img>
 <img src="https://cloud.githubusercontent.com/assets/1335774/26523380/a37d3e5c-4340-11e7-9480-f5313d35580d.png" width="15%"></img>
 <img src="https://cloud.githubusercontent.com/assets/1335774/26523388/c040d53a-4340-11e7-8cb7-4dbbec616a03.png" width="15%"></img>
