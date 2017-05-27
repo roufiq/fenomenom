@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Billabong';
+    src: url('../fonts/Billabong.ttf') format('truetype');
+    font-weight: normal;
+    font-weight: normal;
+}
+.fenomenom-login{
+     font-family: 'Billabong', cursive;
+     font-size: 75px;
+    color: #3584B7;
+ }
+
+
